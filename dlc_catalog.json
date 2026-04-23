@@ -4,7 +4,7 @@
       "id": "dlc_001",
       "name": "罪如歌数据包",
       "author": "Creazeny剑歌",
-      "version": "1.0.0",
+      "version": "0.7.16",
       "description": "罪如歌扩展内容",
       "download_url": "https://raw.githubusercontent.com/TianSamsara/pld_dlcs/main/release/zuiruge_datapack.zip",
       "resource_pack_url": "https://raw.githubusercontent.com/TianSamsara/pld_dlcs/main/release_resourcepack/zuiruge_resourcepack.zip",
@@ -20,6 +20,18 @@
       "description": "万通货斋",
       "download_url": "https://raw.githubusercontent.com/TianSamsara/pld_dlcs/main/release/wantong(beta.3.205).zip",
       "resource_pack_url": "https://raw.githubusercontent.com/TianSamsara/pld_dlcs/main/release_resourcepack/wantong_resourcepack(beta.3.2).zip",
+      "size": 783360,
+      "checksum": "",
+      "update_log": "你好呀"
+    },
+        {
+      "id": "dlc_003",
+      "name": "更爽的盘灵-bugtea优化版",
+      "author": "仙羽/剑歌/bugtea凉茶",
+      "version": "1.0.0",
+      "description": "更爽的盘灵bugtea优化版",
+      "download_url": "https://raw.githubusercontent.com/TianSamsara/pld_dlcs/main/release/morekimoji_bugtea.zip",
+      "resource_pack_url": "https://raw.githubusercontent.com/TianSamsara/pld_dlcs/main/release_resourcepack/morekimoji_rp_bugtea-v1.0.0.zip",
       "size": 783360,
       "checksum": "",
       "update_log": "你好呀"

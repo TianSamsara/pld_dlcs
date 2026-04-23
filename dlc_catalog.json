@@ -35,6 +35,18 @@
       "size": 53248,
       "checksum": "",
       "update_log": "你好呀"
+    },
+    {
+      "id": "dlc_004",
+      "name": "元素_lib",
+      "author": "凝秋霜",
+      "version": "1.15.31",
+      "description": "元素结晶学的前置库",
+      "download_url": "https://raw.githubusercontent.com/TianSamsara/pld_dlcs/main/release/element-libV1.15.31.zip",
+      "resource_pack_url": "",
+      "size": 19456,
+      "checksum": "",
+      "update_log": "你好呀"
     }
   ]
 }

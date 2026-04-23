@@ -11,6 +11,18 @@
       "size": 1828640,
       "checksum": "",
       "update_log": "你好呀"
+    },
+    {
+      "id": "dlc_002",
+      "name": "万通数据包",
+      "author": "无孤",
+      "version": "3.2.05",
+      "description": "万通货斋",
+      "download_url": "https://raw.githubusercontent.com/TianSamsara/pld_dlcs/main/release/zuiruge_datapack.zip",
+      "resource_pack_url": "https://raw.githubusercontent.com/TianSamsara/pld_dlcs/main/release_resourcepack/zuiruge_resourcepack.zip",
+      "size": 1828640,
+      "checksum": "",
+      "update_log": "你好呀"
     }
   ]
 }

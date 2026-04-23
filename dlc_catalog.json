@@ -53,12 +53,7 @@
       "name": "元素结晶学",
       "author": "凝秋霜",
       "version": "1.54.73",
-      "description": " 新增元素结晶，可以将超多元素存入同一个格子中
-        并且可以整一个丢出去
-        元素结晶可代替元素进行炼化
-        元素结晶可以自由切换不同等级
-        元素结晶可代替元素在锻造台使用<WIP>
-        注：目前元素与《万通货斋》有NBT上的冲突（不影响使用）",
+      "description": " 新增元素结晶。注：目前元素与《万通货斋》有NBT上的冲突（不影响使用）",
       "download_url": "https://raw.githubusercontent.com/TianSamsara/pld_dlcs/main/release/Elements%20and%20Crystallography%20V1.54.73.zip",
       "resource_pack_url": "https://raw.githubusercontent.com/TianSamsara/pld_dlcs/main/release_resourcepack/Elements%20and%20Crystallography%20rp%20v1.54.73.zip",
       "size": 154624,

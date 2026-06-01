@@ -101,7 +101,7 @@
       "name": "梦盘部分彩蛋修复",
       "author": "bugtea凉茶",
       "version": "v1.0.0",
-      "description": "梦回盘灵部分彩蛋修复与复用化。适用于MC 1.20-1.20.1下的梦回盘灵v1.1.0b。内容包括：休息室各物资奖励每玩家每轮挑战可领取一次；修复轩辕箱食物源源不断但处刑力度加大；修复凤花楼一系列内容；诡异客栈、皇城夜店重新开张；皇宫入口所有守卫重新上阵；修复部分盔甲架装饰；部分箱子中的彩蛋奖励可反复领取。安装步骤：1.将数据包本体放入datapacks目录 2.使用命令/function pl_egg:install",
+      "description": "安装:使用命令/function pl_egg:install 梦回盘灵部分彩蛋修复与复用化。适用于MC 1.20-1.20.1下的梦回盘灵v1.1.0b。内容包括：休息室各物资奖励每玩家每轮挑战可领取一次；修复轩辕箱食物源源不断但处刑力度加大；修复凤花楼一系列内容；诡异客栈、皇城夜店重新开张；皇宫入口所有守卫重新上阵；修复部分盔甲架装饰；部分箱子中的彩蛋奖励可反复领取。",
       "download_url": "https://raw.githubusercontent.com/TianSamsara/pld_dlcs/main/release/MDLC.zip",
       "resource_pack_url": "",
       "size": 52014,
